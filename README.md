@@ -15,6 +15,10 @@ Dart SDK version: Dart 3.1.3
 
   json_serializable: ^6.7.1
 
+  build_runner: ^2.4.8
+
+
+
 
 ## Getting Started
 
